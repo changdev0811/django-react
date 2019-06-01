@@ -7,6 +7,7 @@
 ```bash
 # Install dependencies
 npm install
+pipenv install
 
 # Serve API on localhost:8000
 python leadmanager/manage.py migrate
